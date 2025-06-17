@@ -10,7 +10,6 @@ DigitalEd India blends cutting-edge technology with interactive content to deliv
 - 🧪 STEM (Science, Technology, Engineering, Mathematics)
 - 🤖 Robotics & AI
 - 💻 Coding & Design Thinking
-- 💰 Financial Literacy
 - 📚 Critical Thinking & Problem Solving
 
 ## 🎯 Who Is It For?

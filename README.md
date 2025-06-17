@@ -38,4 +38,4 @@ This repository may contain:
 ---
 
 **Let’s build a smarter future, together.**  
-For collaboration, reach out via [info@digitaled.in](mailto:info@digitaled.in)
+To explore more, reach out via [info@digitaled.in](mailto:info@digitaled.in)
